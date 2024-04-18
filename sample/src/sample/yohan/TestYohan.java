@@ -5,5 +5,6 @@ public class TestYohan {
 		System.out.println("강요한");
 		System.out.println("김동훈");
 		System.out.println("유선정");
+		System.out.println("김해진");
 	}
 }
